@@ -1,4 +1,4 @@
-# Exchange-Rates-API
+# Speacial-Games-Offer-API
 An Free api for everyone 
 
 ## Where you can get
